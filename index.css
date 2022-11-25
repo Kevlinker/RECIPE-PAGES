@@ -1,0 +1,50 @@
+nav{
+    text-align-last: right;
+}
+.zero{
+    padding: 0px 35px;
+    background-color: #F7C331;
+}
+.one{
+    padding: 0px 35px;
+    background-color: #F7C331;
+}
+.two{
+    padding: 0px 35px 0px 35px;
+    background-color: #F7C331;
+} .three{
+    background-color: #F7C331;
+    width: 160px;
+    height: 40px;
+    font: 1em Garamond;
+    color: beige;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 18px;
+}
+h2{
+    padding: 80px 60px 4px 40px;
+    font: 1em Garamond;
+    font-size: 30px;
+    font-style: bold;
+    color: antiquewhite;
+}
+p{
+    padding: 0px 60px 4px 40px;
+    font: 1em Garamond;
+    color: white;
+    font-size: 20px;
+}
+body{
+    background-color: #091f36;
+}
+div{
+    margin-left: 300px;
+    display: flex;
+    border-radius: 10px;
+    border: none;
+    -webkit-mask-image: url(data:image/svg+xml;base64,PCEtLT94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/LS0+CiAgICAgICAgICAgICAgPHN2ZyBpZD0ic3ctanMtYmxvYi1zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSI+CiAgICAgICAgICAgICAgICAgICAgPGRlZnM+IAogICAgICAgICAgICAgICAgICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9InN3LWdyYWRpZW50IiB4MT0iMCIgeDI9IjEiIHkxPSIxIiB5Mj0iMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3RvcCBpZD0ic3RvcDEiIHN0b3AtY29sb3I9InJnYmEoMjQ4LCAxMTcsIDU1LCAxKSIgb2Zmc2V0PSIwJSI+PC9zdG9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN0b3AgaWQ9InN0b3AyIiBzdG9wLWNvbG9yPSJyZ2JhKDI1MSwgMTY4LCAzMSwgMSkiIG9mZnNldD0iMTAwJSI+PC9zdG9wPgogICAgICAgICAgICAgICAgICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICAgICAgICAgICAgICAgIDwvZGVmcz4KICAgICAgICAgICAgICAgIDxwYXRoIGZpbGw9InVybCgjc3ctZ3JhZGllbnQpIiBkPSJNMTguNSwtMjMuM0MyNC44LC0xNi44LDMxLjIsLTExLjcsMzIuOCwtNS40QzM0LjQsMSwzMS4yLDguNiwyNy43LDE3LjNDMjQuMiwyNi4xLDIwLjUsMzYuMSwxNC4xLDM4LjFDNy44LDQwLjEsLTEuMiwzNC4xLC0xMS4yLDMwLjZDLTIxLjIsMjcuMSwtMzIuMiwyNiwtMzgsMjBDLTQzLjgsMTMuOSwtNDQuNSwzLC00Mi4xLC02LjlDLTM5LjgsLTE2LjcsLTM0LjMsLTI1LjUsLTI2LjcsLTMxLjdDLTE5LjIsLTM4LC05LjYsLTQxLjYsLTEuNywtMzkuNkM2LjEsLTM3LjUsMTIuMywtMjkuNywxOC41LC0yMy4zWiIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTAgNTApIiBzdHJva2Utd2lkdGg9IjAiIHN0eWxlPSJ0cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlIDBzOyI+PC9wYXRoPgogICAgICAgICAgICAgIDwvc3ZnPg==);
+}

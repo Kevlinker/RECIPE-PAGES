@@ -1,0 +1,110 @@
+
+h1{
+    color: #A4A400;
+    background-color: #F0F0F0; 
+}
+h2{
+    color: #A4A400;
+    background-color: #F0F0F0;
+}
+p{
+    color: #404040;
+    font: 1em Garamond;
+}
+ul{
+    color: #404040;
+    font: 1em Garamond;
+}
+ol{
+    color: #404040;
+    font: 1em Garamond;
+}
+.tor{
+    color: #A4A400;
+    font: 1em Garamond;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+}
+.lmon{
+    color: #404040;
+    font: 1em Garamond;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.got{
+    color: #404040;
+    
+}
+.git{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #A4A400;
+}
+.pau{
+    color: #404040;
+}
+.one{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #A4A400;
+}
+.fen{
+    color: #404040;
+}
+.two{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #A4A400;
+}
+.four{
+    font-style: italic;
+    color: #404040;
+}
+.five{
+    font-style: italic;
+    color: #404040;
+}
+.six{
+    font-style: italic;
+    color: #404040;
+}
+
+body{
+    background-image: url(images/background\ 2.gif);
+}
+ul{
+    list-style-image: url(images/bullets.gif);
+}
+.eight{
+    font: 1em monospace;
+    margin-left: 100;
+}
+.nine{
+    font: 1em monospace;
+    padding: 0px 29px;
+}  
+.ten{
+    font: 1em monospace;
+    padding: 0px 77px;
+}
+.span_one{
+    cursor: pointer;
+}
+.span_two{
+    cursor: pointer;
+}
+.span_three{
+    cursor: pointer;
+}
+.span_four{
+    cursor: pointer;
+}
+.span_five{
+    cursor: pointer;
+}
